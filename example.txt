@@ -1,0 +1,1 @@
+Example object to put into S3
