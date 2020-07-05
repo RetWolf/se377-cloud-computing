@@ -1,4 +1,4 @@
-module github.com/retwolf/CloudComputing
+module github.com/retwolf/CloudComputing/s3-work
 
 go 1.14
 
